@@ -1,4 +1,4 @@
-Chatbot Application
+**Chatbot Application**
 
 Overview
 This project demonstrates a simple chatbot application that uses Flutter for the frontend and Flask for the backend. The chatbot leverages the DeepSeek API to process user messages and generate responses. The app runs locally using Ollama for running the model and communicates between Flutter (frontend) and Flask (backend).
